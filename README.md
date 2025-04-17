@@ -1,33 +1,38 @@
 TechForum – это платформа для обсуждения технологий и инноваций, предоставляющая новости и обзоры. Поисковая ссылка: techforum.kpk45.ru. 
+
 As is
- ![изображение](https://github.com/user-attachments/assets/3c464371-c517-472c-9608-454674217b5f)
+![изображение](https://github.com/user-attachments/assets/3c464371-c517-472c-9608-454674217b5f)
 
 To be
- ![изображение](https://github.com/user-attachments/assets/8835f979-17c1-4f04-9acb-87f3eb696b21)
+![изображение](https://github.com/user-attachments/assets/8835f979-17c1-4f04-9acb-87f3eb696b21)
 
 Er-диаграмма 
-  ![изображение](https://github.com/user-attachments/assets/8dd2d972-ab07-43be-9f7f-610a1c77a849)
+![изображение](https://github.com/user-attachments/assets/8dd2d972-ab07-43be-9f7f-610a1c77a849)
 
 Руководство пользователя
 Неавторизованный пользователь должен авторизоваться (Рисунок 1), после успешной аутентификации пользователь перенаправляется на главную страницу, где представлена общая информация.
+
 ![изображение](https://github.com/user-attachments/assets/59f84026-8952-4c92-98d7-a64584fcb954)
 
 Рисунок 1. Форма авторизации
 На главной странице располагаются новости и обзоры пользователей. (Рисунок 2).
- ![изображение](https://github.com/user-attachments/assets/f8e927c4-c8e5-439e-978b-4bbb56531297)
+
+![изображение](https://github.com/user-attachments/assets/f8e927c4-c8e5-439e-978b-4bbb56531297)
 
 Рисунок 2. Главная страница
 
 Страница создания новости. (Рисунок 3).
+
 ![изображение](https://github.com/user-attachments/assets/efe37ab4-07c0-471d-9193-9c6b0f4acd55)
 
- 
 Рисунок 3. Создание новости
 Страница создания обзоров. (Рисунок 4).
+
 ![изображение](https://github.com/user-attachments/assets/c5ae7c69-1613-4b69-b368-0e705d53c6c3)
 
 Рисунок 4. Создание обзора
 Страница профиля с отображением ранга пользователя. (Рисунок 5).
+
 ![изображение](https://github.com/user-attachments/assets/ca4b20a4-a0ea-4165-81b9-e15ddffed448)
 
 Рисунок 5. Профиль 
